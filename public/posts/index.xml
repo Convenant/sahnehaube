@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Sahnehäubchen</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Sahnehäubchen</description>
     <generator>Hugo -- 0.149.1</generator>
     <language>de-DE</language>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/posts/philosopy/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/philosopy/</guid>
+      <description>&lt;h2 id=&#34;unsere-philosophie&#34;&gt;Unsere Philosophie&lt;/h2&gt;
+&lt;p&gt;Wir glauben an die Kraft der Gemeinschaft, den Wert des Dialogs und die Bedeutung kontinuierlichen Lernens.&lt;br&gt;
+Unsere Philosophie basiert auf Offenheit, Respekt und der Freude am gemeinsamen Austausch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mehr dazu auf unseren Veranstaltungen!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holper</title>
+      <link>http://localhost:1313/posts/holper/</link>
+      <pubDate>Fri, 05 Sep 2025 08:12:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/holper/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/posts/post/</link>

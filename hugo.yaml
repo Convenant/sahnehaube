@@ -1,4 +1,22 @@
-baseURL: https://example.org/
+baseURL: https://sahnehaebchen.org/
 languageCode: de-DE
-title: My New Hugo Site
+title: Sahnehäubchen
 theme: PaperMod
+menu:
+  main:
+    - identifier: termine
+      name: Termine
+      url: /termine/
+      weight: 1
+    - identifier: philosophy
+      name: Philosophy
+      url: /philosophy/
+      weight: 2
+    - identifier: kontakt
+      name: Kontakt/Anfahrt
+      url: /kontakt/
+      weight: 3
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
+      weight: 4
